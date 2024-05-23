@@ -21,13 +21,13 @@
   <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
+<!-- <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
     <a href="https://ashutosh1919.github.io" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
-</p>
+</p> -->
 
 :star: Star us on GitHub — it helps!
 
@@ -42,7 +42,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+<!-- To view a live example, **[click here](https://ashutosh1919.github.io/)** -->
 
 # Clone and Use 📋
 
